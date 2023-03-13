@@ -1,0 +1,2 @@
+# txteditor
+Self-Educational Purposes
